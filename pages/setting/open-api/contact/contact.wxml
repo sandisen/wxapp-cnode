@@ -1,0 +1,4 @@
+<!--pages/setting/open-api/contact/contact.wxml-->
+<view class="page">
+    <contact-button type="default-dark" size="20"session-from="weapp"></contact-button>
+</view>

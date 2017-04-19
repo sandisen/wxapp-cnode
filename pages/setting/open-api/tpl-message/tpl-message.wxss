@@ -1,0 +1,17 @@
+.page{
+  padding:30rpx;
+}
+input {
+  height: auto;
+  width: 100%;
+  background-color: #f6f6f6;
+  margin-bottom: 30rpx;
+  padding-left:5rpx;
+  border-left:2px solid #1AAD19;
+}
+
+
+picker {
+  width: 100%;
+  margin-bottom: 30rpx;
+}

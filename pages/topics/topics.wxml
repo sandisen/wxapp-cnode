@@ -1,0 +1,9 @@
+<!--pages/topics/topics.wxml-->
+<import src="../../common/topic-nav-temp.wxml"/>
+<import src="../../common/topic-list-temp.wxml"/>
+
+<view class="page topics" bindscrolltoupper="refresh">
+    <template is="nav" data="{{navList,activeIndex}}"/> 
+    <template is="list" data="{{postsList,hidden}}"/>
+</view>
+

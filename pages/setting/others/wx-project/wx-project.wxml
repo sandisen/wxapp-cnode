@@ -1,0 +1,21 @@
+
+<view class="page">
+  <view class="about">
+    <view class="about-item">
+      <text class="about-item-title">项目描述</text>
+      <text class="about-item-content">使用cnode社区api做微信小应用（实现了数据的读取、展示、下拉刷新和加载更多、loading加载，以及账号登录cnode社区等功能）</text>
+    </view>
+    <view class="about-item">
+      <text class="about-item-title">My GitHub</text>
+      <text class="about-item-content link">https://github.com/sandisen/wxapp-conde</text>
+    </view>
+    <view class="about-item">
+      <text class="about-item-title">参考资料</text>
+      <text class="about-item-content link">https://github.com/vincentSea</text>
+    </view>
+    <view class="about-item">
+      <text class="about-item-title">官方API</text>
+      <text class="about-item-content link">https://cnodejs.org/api/</text>
+    </view>
+  </view>
+</view>
